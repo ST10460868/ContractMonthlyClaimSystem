@@ -1,0 +1,3 @@
+git add docs/"C:\Users\e935381\OneDrive - Sanlam Life Insurance Limited\Desktop\New folder\UML.png"
+git commit -m "Added UML class diagram for prototype"
+git push
