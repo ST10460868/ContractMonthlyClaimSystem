@@ -1,0 +1,3 @@
+git add docs/Report
+git commit -m "Added Part 1 project report with design choices, assumptions, and constraints"
+git push
